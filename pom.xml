@@ -47,6 +47,13 @@
             <version>1.18.0</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+            <groupId>javax.annotation</groupId>
+            <artifactId>jsr250-api</artifactId>
+            <version>1.0</version>
+        </dependency>
+
     </dependencies>
     <build>
         <plugins>
